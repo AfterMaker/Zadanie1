@@ -9,7 +9,7 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Группа ИСП-1-20\nАлександр Лагуткин Вячеславович", "Результат:");
+            MessageBox.Show("Р“СЂСѓРїРїР° РРЎРџ-1-20\nРђР»РµРєСЃР°РЅРґСЂ Р›Р°РіСѓС‚РєРёРЅ Р’СЏС‡РµСЃР»Р°РІРѕРІРёС‡", "Р РµР·СѓР»СЊС‚Р°С‚:");
         }
 
         private void Form1_Load(object sender, EventArgs e)
